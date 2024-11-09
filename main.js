@@ -85,7 +85,7 @@ class ExcludeSearchSettingTab extends PluginSettingTab {
 
     // Hinweis zum Aktivieren des Shortcuts
     containerEl.createEl('h3', { text: 'Anleitung' });
-    containerEl.createEl('p', { text: 'Um den Quick Switcher zu aktivieren, gehe zu Einstellungen → Optionen → Tastenkürzel, suche nach "Quick Switcher ohne bestimmte Dateitypen öffnen" und weise ihm einen Hotkey zu (z.B. Strg+O oder Strg+Shift+F).' });
+    containerEl.createEl('p', { text: 'Um den Quick Switcher zu aktivieren, gehe zu <code>Einstellungen</code> → Optionen → Tastenkürzel, suche nach "Quick Switcher ohne bestimmte Dateitypen öffnen" und weise ihm einen Hotkey zu (z.B. Strg+O oder Strg+Shift+F).' });
   }
 }
 

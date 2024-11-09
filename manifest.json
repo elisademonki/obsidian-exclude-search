@@ -1,9 +1,9 @@
 {
   "id": "obsidian-exclude-search",
-  "name": "Exclude Search Extensions",
+  "name": "Exclude Search",
   "version": "1.0.0",
   "minAppVersion": "0.12.0",
-  "description": "A plugin to exclude certain file types from search results.",
+  "description": "Obsidian Plugin to exclude certain file types from search results in Quick Switcher",
   "author": "Elisa Demonkí",
   "authorUrl": "https://jalara-studio.de",
   "isDesktopOnly": false
