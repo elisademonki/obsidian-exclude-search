@@ -8,7 +8,7 @@ Gib in den Einstellungen des Plugins die Dateiendungen an, die ausgeschlossen we
 
 ![Settings](img/obsidian-exclude-search-settings.png)
 
-Du kannst dort auch mit einem Klick alle möglichen Dateiendungen ausschließen:
+Du kannst dort auch mit einem Klick diese Dateiendungen ausschließen:
 	```pdf,png,jpg,mp3,webp,svg,cmd,csv,mpd,gif,djvu,url,wav,lnk,m3u,sheet,mkv,mp4,txt,exe,js,html,json,mobi,php,epub,zip,ahk,bat,py,m4a,env,avif,canvas,htm,ini,indd,ttf,otf,xml,psd,css,ai,gz,woff,eot,swf,xap,crt,,po,mo,scss,conf,ico,woff2,heic,doc,pfx,ods,srt,jpeg,webm```
 
 
