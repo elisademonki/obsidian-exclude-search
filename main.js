@@ -53,7 +53,7 @@ class ExcludeSearchSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName('Auszuschließende Dateiendungen')
-      .setDesc('Geben Sie die Dateiendungen an, die ausgeschlossen werden sollen, getrennt durch Kommas (z.B. txt,jpg,png)')
+      .setDesc('Gib die Dateiendungen an, die ausgeschlossen werden sollen, getrennt durch Kommas (z.B. txt,jpg,png)')
       .addText(text => text
         .setPlaceholder('txt,jpg,png')
         .setValue(this.plugin.settings.excludedExtensions)
