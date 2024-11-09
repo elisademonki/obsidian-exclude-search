@@ -1,0 +1,4 @@
+{
+  "excludedExtensions": "pdf,png,jpg,heic,webp,svg,cmd,mpd,gif,djvu,url,lnk,m3u,wav,sheet,mkv,mp4,txt,exe,js,html,json,mobi,php,epub,zip,ahk,bat,py,m4a,env,csv,canvas,indd,ttf,otf,xml,avif,psd,css,ai,gz,woff,eot,swf,xap,crt,,po,mo,scss,conf,ico,woff2,doc,pfx,ods,srt,htm,jpeg,webm",
+  "excludeInLinkSuggestions": true
+}

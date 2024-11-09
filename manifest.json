@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-exclude-search",
+  "name": "Exclude Search Extensions",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "A plugin to exclude certain file types from search results.",
+  "author": "Elisa Demonkí",
+  "authorUrl": "https://jalara-studio.de",
+  "isDesktopOnly": false
+}
